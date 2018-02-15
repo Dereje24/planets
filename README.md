@@ -1,9 +1,15 @@
-# Postgesql Intro
+# Postgresql Intro
 
+These slides cover the introduction to PostgreSQL for understanding:
+
+- Database basics
+- SQL Cheatsheet
+- PostgreSQL console
+- Ruby scripting with PG
 - [Lecture Slides](https://docs.google.com/presentation/d/1TAUwgcll1Pmk04O5-JVkySVRZiI9kJ2kEyNqVn_F-AI/edit?usp=sharing)
 
 
-# Data Modeling
+# Lab Data Modeling
 
 For this lab we will, as a group, model some objects together! Things to consider:
 
