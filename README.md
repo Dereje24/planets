@@ -48,11 +48,6 @@ Data sample:
     "name": "Tatooine",
     "orbital_period": "304",
     "population": "200000",
-    "residents": [
-        "https://swapi.co/api/people/1/",
-        "https://swapi.co/api/people/2/",
-        ...
-    ],
     "rotation_period": "23",
     "surface_water": "1",
     "terrain": "Dessert",
@@ -70,3 +65,10 @@ residents, but the other fields should all be represented on the class.
 - Give it all the same attributes that the api provides **except residents. Skip the residents field.**
 - Your class should have a `save()` method that stores instances of `Planet` in the database.
 - Complete `exercises/db.rb` to methods for connecting and interacting with the database.
+
+
+#### Resources
+- [PostgreSQL Data Types](http://www.postgresqltutorial.com/postgresql-data-types/)
+- [Star Wars API](https://swapi.co/documentation#intro)
+- [Ruby Classes for Beginners](http://ruby-for-beginners.rubymonstas.org/writing_classes.html)
+
